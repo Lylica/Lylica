@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ffa5ab&text=Welcome!&reversal=false&textBg=false&animation=fadeIn&fontColor=ffffff&fontSize=35&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA5AB&width=435&lines=My+name+is+Aylla+Alves!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FFA5AB&width=435&lines=My+name+is+Aylla+Alves!;I%C2%B4m+a+fullstack+student!)](https://git.io/typing-svg)
 
 <h3>Sobre mim </h3>
 <p style="font-size: 18px;">
   Meu nome é Aylla Alves, tenho 18 anos e sou do interior de São Paulo. Estou cursando <strong>Engenharia da computação na Faculdade de Engenharia de Sorocaba - FACENS</strong>, onde aplico meus conhecimentos em projetos práticos.   
 </p>
 <p style="font-size: 18px;">
-  Estou aprofundando meus estudos em <strong>HTML, CSS, JavaScript, C</strong> e <strong>Java</strong>. Atualmente estou me aprofundando principalmente em Java, que é uma linguagem que me chamou muita atenção e que pretendo me especializar.
+  Estou aprofundando meus estudos em <strong>HTML, CSS, JavaScript, C</strong> e <strong>Java</strong>. Atualmente estou me aprofundando principalmente em Java, que é uma linguagem que me chamou muita atenção e que pretendo me especializar. Gosto muito da área e espero poder aprender cada vez mais e compartilhar meus conhecimentos aqui!
 </p>
 
 ---
@@ -61,4 +61,4 @@
   <a href="https://www.linkedin.com/in/aylla-alves-206629251/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Link do Linkedin"/></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ffa5ab&reversal=false&textBg=false&animation=fadeIn&fontColor=ffffff&fontSize=35&fontAlignY=35&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFA5AB&section=footer"/>
