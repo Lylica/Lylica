@@ -58,7 +58,7 @@
 
 <h3> 🔗 Redes Sociais </h3>
 <div>
-  <a href="https://www.linkedin.com/in/aylla-alves-206629251/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Link do Linkedin"/></a>
+  <a href="https://www.linkedin.com/in/aylla-alves/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Link do Linkedin"/></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFA5AB&section=footer"/>
