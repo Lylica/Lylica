@@ -4,7 +4,7 @@
 
 <h3>Sobre mim </h3>
 <p style="font-size: 18px;">
-  Meu nome é Aylla Alves, tenho 18 anos e sou do interior de São Paulo. Estou cursando <strong>Engenharia da computação na Faculdade de Engenharia de Sorocaba - FACENS</strong>, onde aplico meus conhecimentos em projetos práticos.   
+  Meu nome é Aylla Alves, tenho 19 anos e sou do interior de São Paulo. Estou cursando <strong>Engenharia da computação na Faculdade de Engenharia de Sorocaba - FACENS</strong>, onde aplico meus conhecimentos em projetos práticos.   
 </p>
 <p style="font-size: 18px;">
   Estou aprofundando meus estudos em <strong>HTML, CSS, JavaScript, C</strong> e <strong>Java</strong>. Atualmente estou me aprofundando principalmente em Java, que é uma linguagem que me chamou muita atenção e que pretendo me especializar. Gosto muito da área e espero poder aprender cada vez mais e compartilhar meus conhecimentos aqui!
